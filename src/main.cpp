@@ -1,5 +1,5 @@
 /* SPDX-FileCopyrightText: Copyright (c) 2024 imm project maintainers
- * SPDX-License-Identifier: LGPL-3.0 */
+ * SPDX-License-Identifier: LicenseRef-AllRightsReserved */
 /*  == imm v0 == */
 
 #include "main.h"
